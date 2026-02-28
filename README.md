@@ -283,9 +283,13 @@ This repository contains comprehensive business analysis conducted on the Supers
 ## 📞 Contact & Support
 
 For questions about this analysis or dashboard insights:
-- **Business Questions:** Contact Data Analysis Team
+- **Business Questions:** Contact me on samblaze2017@gmail.com
 - **Dashboard Access:** Power BI Service (Superstore Analysis space)
-- **Data Requests:** Submit to BI@company.com
+- **Data Requests:** Submit on request<img width="1006" height="623" alt="image (3)" src="https://github.com/user-attachments/assets/d68b1812-11d8-443d-a13f-9e4bf3ee9680" />
+<img width="1010" height="611" alt="image (2)" src="https://github.com/user-attachments/assets/21fd3b96-7d70-4f53-bf86-4961ba798e1b" />
+<img width="1000" height="623" alt="image (1)" src="https://github.com/user-attachments/assets/f6f22e07-14a8-488b-b2f0-cd6b19a68e6a" />
+<img width="988" height="645" alt="image" src="https://github.com/user-attachments/assets/2fe4de5f-d347-4ed3-a35a-d2254cbad7f3" />
+
 
 ---
 
@@ -314,3 +318,4 @@ This analysis is proprietary and confidential. Distribution without authorizatio
 **Last Updated:** February 28, 2026  
 **Analysis Period:** 2011-2014 (4 years)  
 **Report Status:** ✅ Complete and Ready for Action
+
